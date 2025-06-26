@@ -51,3 +51,15 @@ Change your names in the `<h1>` header and the final `<span>` signature. You can
 
 <!-- In the Closing Message -->
 <span style="font-family: 'Dancing Script', cursive; font-size: 1.5em;">Chulbul Pandey</span>
+
+### 2. The Memories
+Find the .memory-card sections. You can change the image src, the <h3> title, and the <p> description. To add more memories, just copy an entire memory-card block and paste it below the others.
+
+'''html
+<div class="memory-card animated">
+    <img src="https://your-photo-url-here.jpg" alt="A meaningful photo of us">
+    <div class="memory-text">
+        <h3>The Day We Met</h3>
+        <p>Your description of the memory goes here...</p>
+    </div>
+</div>
