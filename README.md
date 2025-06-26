@@ -80,12 +80,4 @@ This project was envisioned and brought to life with passion and creativity.
 
 *   **Maker:** **RexonBlood**
 *   **Telegram Channel:** [**RexonBlack**](https://t.me/RexonBlack)
-
-The initial code structure and features were assisted by AI. The final vision, customization, and implementation were driven by the maker.
-
----
-
-Made with ❤️, for love.
-
--->
    
