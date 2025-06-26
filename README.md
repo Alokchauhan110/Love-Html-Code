@@ -88,7 +88,4 @@ The initial code structure and features were assisted by AI. The final vision, c
 Made with ❤️, for love.
 
 -->
-
-<!-- Start of the beautiful blog post code - FINAL VERSION WITH ALL FEATURES & FIXES -->
-<style>
    
