@@ -2,7 +2,7 @@
 
 This project contains the complete HTML, CSS, and JavaScript code for a single, beautiful, and interactive Blogspot post designed to be a romantic gift. It's filled with animations and personal touches to create a memorable experience.
 
-**Live Demo:** [Link to Your Published Blogspot Post](https://your-blog-name.blogspot.com/)
+**Live Demo:** [Link to Your Published Blogspot Post](https://alokjnp05.blogspot.com/2025/06/m.html)
 
 ---
 
