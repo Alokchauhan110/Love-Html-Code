@@ -1,9 +1,3 @@
-<!--
-==================================================================
-README.md - Project Documentation
-(Blogspot will ignore this entire section)
-==================================================================
-
 # 💖 A Beautiful, Animated Blogspot Post for Your Girlfriend
 
 This project contains the complete HTML, CSS, and JavaScript code for a single, beautiful, and interactive Blogspot post designed to be a romantic gift. It's filled with animations and personal touches to create a memorable experience.
